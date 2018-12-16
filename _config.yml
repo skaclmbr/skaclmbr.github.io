@@ -27,12 +27,10 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
-#  Interesting:
-#  	- Derek Ogle: "http://derekogle.com/"
-	Related:
-		- NC Wildlife: "http://ncwildlife.org/"
-#  Experiments:
-#  	- Retirement: "http://test.ncbirdingtrail.org/"
+  Related:
+    - NC Wildlife: "http://ncwildlife.org/"
+  Experiments:
+    - Retirement: "http://test.ncbirdingtrail.org/"
 #navbar-links:
 #	About Me: "aboutme"
 #	Resources:
