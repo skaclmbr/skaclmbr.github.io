@@ -25,11 +25,9 @@ description: Thoughts and Experiments
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Interesting:
-  	- 
+  	- Derek Ogle: "http://derekogle.com/"
   Experiments:
   	- Coffee: "/coffee.html"
 # Author's home: "http://deanattali.com"
