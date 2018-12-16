@@ -27,8 +27,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Experiments:
-  	- Retirement: "http://test.ncbirdingtrail.org/"
+#  Experiments:
+#  	- Retirement: "http://test.ncbirdingtrail.org/"
 #navbar-links:
 #	About Me: "aboutme"
 #	Resources:
