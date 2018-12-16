@@ -27,6 +27,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
+  Interesting:
+		- Derek Ogle: "http://derekogle.com/"
 #  Experiments:
 #  	- Retirement: "http://test.ncbirdingtrail.org/"
 #navbar-links:
@@ -34,8 +36,7 @@ navbar-links:
 #	Resources:
 #		- Learn markdown: "http://www.markdowntutorial.com/"
 #	Interesting:
-#		- Derek Ogle: "http://derekogle.com/"
-#	Experiments:
+# Experiments:
 #		- NC Birding Trail: "http://test.ncbirdingtrail.org"
 # Author's home: "http://deanattali.com"
 
