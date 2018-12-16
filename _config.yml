@@ -24,7 +24,7 @@ title: Scott Anderson
 
 # List of links in the navigation bar
 navbar-links:
- 	About Me: "aboutme"
+	About Me: "aboutme"
 	Resources:
 		- Learn markdown: "http://www.markdowntutorial.com/"
 	Interesting:
