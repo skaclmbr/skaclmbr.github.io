@@ -24,6 +24,8 @@ description: Thoughts and Experiments
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+    - About: "/about.html"
+    - CV: "/cv.html"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Interesting:
