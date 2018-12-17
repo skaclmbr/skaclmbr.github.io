@@ -1,10 +1,9 @@
 ---
 title: Items of Note
 subtitle: and other randomness
+
 ---
-- [Mindfulness](#mindfulness)
-- [Social](#social)
-- [Conservation](#conservation)
+[![Mindfulness](/img/leaf-solid.svg)](#mindfulness)[![Social](/img/people-carry-solid.svg)](#social)[![Conservation](/img/brain-solid.svg)](#conservation)
 
 # Mindfulness
 - [Headspace](https://www.headspace.com) - Meditation that speaks to you. Or not.
