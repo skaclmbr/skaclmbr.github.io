@@ -1,7 +1,7 @@
 ---
 title: Items of Note
 subtitle: and other randomness
-css: /css/skaclmbr.css
+#css: /css/skaclmbr.css
 ---
 [![Mindfulness](/img/leaf-solid.svg)](#mindfulness)[![Social](/img/people-carry-solid.svg)](#social)[![Conservation](/img/brain-solid.svg)](#conservation)
 
