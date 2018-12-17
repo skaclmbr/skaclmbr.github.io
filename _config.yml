@@ -57,7 +57,7 @@ avatar: "/img/skaclmbr_thinkin.PNG"
 
 navbar-col: "#328CC1"
 navbar-text-col: "#1D2731"
-navbar-children-col: "#0B3C5D"
+navbar-children-col: "#328CC1"
 page-col: "#FFFFFF"
 link-col: "#328CC1"
 hover-col: "#D9B310"
