@@ -1,4 +1,19 @@
-# Beautiful Jekyll
+# Scott Anderson
+## Principles
+
+- make it useful to someone else
+
+## Hopes, Fears, Desires
+
+- Weekly blog post
+- Interactive CV
+- Random Beck Generator (incorporate in 404 page? Twitter account?)
+- [Leaflet](https://leafletjs.com/) test area
+- Fix coffee.html
+- Personalize colors, fonts
+- wikimedia implementation in playground
+
+# This Website is Built on Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
