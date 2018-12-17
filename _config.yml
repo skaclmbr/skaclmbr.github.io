@@ -55,15 +55,21 @@ avatar: "/img/skaclmbr_thinkin.PNG"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 # colors from Gustav Klimt (https://www.canva.com/learn/website-color-schemes/)
 
-navbar-col: "#328cc1"
-navbar-text-col: "#1d2731"
-navbar-children-col: "#1d2731"
+navbar-col: "#328CC1"
+navbar-text-col: "#1D2731"
+navbar-children-col: "#0B3C5D"
 page-col: "#FFFFFF"
-link-col: "#d9b310"
-hover-col: "#0b3c5d"
-footer-col: "#328cc1"
-footer-text-col: "#1d2731"
+link-col: "#328CC1"
+hover-col: "#D9B310"
+footer-col: "#328CC1"
+footer-text-col: "#1D2731"
 footer-link-col: "#0b3c5d"
+
+#color scheme - ska
+# Prussian Blue: #0B3C5D
+# Sky Blue: #328CC1
+# Gold Leaf: #D9B310
+# Ivory Black: #1D2731
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
