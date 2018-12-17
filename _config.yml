@@ -29,8 +29,9 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Related:
     - NC Wildlife: "http://ncwildlife.org/"
+    - NC Birding Trail: "http://www.ncbirdingtrail.org"
   Experiments:
-    - Retirement: "http://test.ncbirdingtrail.org/"
+    - Retirement: "coffee.html"
 #navbar-links:
 #	About Me: "aboutme"
 #	Resources:
