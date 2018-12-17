@@ -11,6 +11,7 @@
 - [Leaflet](https://leafletjs.com/) test area
 - Fix coffee.html
 - Personalize colors, fonts
+  - [Typewolf](https://www.typewolf.com/google-fonts)
 - wikimedia implementation in playground
 
 # This Website is Built on Beautiful Jekyll
