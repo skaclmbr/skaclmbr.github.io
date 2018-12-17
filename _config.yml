@@ -52,6 +52,7 @@ avatar: "/img/skaclmbr_thinkin.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
+# colors from Gustav Klimt (https://www.canva.com/learn/website-color-schemes/)
 
 navbar-col: "#328cc1"
 navbar-text-col: "#1d2731"
