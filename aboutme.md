@@ -5,7 +5,6 @@ subtitle: If you care
 ---
 
 I have the following qualities:
-
 - Fellow human
 - Father
 - Husband
