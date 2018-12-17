@@ -25,13 +25,14 @@ description: Thoughts and Experiments
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Related:
-    - NC Wildlife: "http://ncwildlife.org/"
-    - NC Birding Trail: "http://www.ncbirdingtrail.org"
-  Experiments:
-    - Retirement: "coffee.html"
+#  Resources:
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#  Related:
+#    - NC Wildlife: "http://ncwildlife.org/"
+  Interesting:
+    - The Righteous Mind: "https://righteousmind.com/"
+    - NC Birding Trail: "http://www.ncbirdingtrail.org"#  Experiments:
+#    - Retirement: "coffee.html"
 #navbar-links:
 #	About Me: "aboutme"
 #	Resources:
