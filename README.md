@@ -6,6 +6,8 @@
 
 ## Hopes, Fears, Desires
 
+- Move items of note/interests under about me
+- format ION page in html using bootstrap and fony awesome
 - Weekly blog post
 - Interactive CV
 - Random Beck Generator (incorporate in 404 page? Twitter account?)
