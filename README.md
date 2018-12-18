@@ -2,6 +2,7 @@
 ## Principles
 
 - make it useful to someone else
+- choose satisfaction over success
 
 ## Hopes, Fears, Desires
 
