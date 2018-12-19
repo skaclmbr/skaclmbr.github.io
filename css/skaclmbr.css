@@ -1,8 +1,5 @@
-img {
-  width:5rem;
-  font-size:5rem;
-  padding:3rem;
-  margin-left:auto;
-  margin-right:auto;
+.logo-div {
+  width:100%;
+  font-size:3rem;
   color:#0B3C5D;
 }
