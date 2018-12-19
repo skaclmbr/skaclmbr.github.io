@@ -1,9 +1,15 @@
 ---
 title: Items of Note
 subtitle: and other randomness
-#css: /css/skaclmbr.css
+css: "https://use.fontawesome.com/releases/v5.6.1/css/all.css"
+css: /css/skaclmbr.css
 ---
-[![Mindfulness](/img/leaf-solid.svg)](#mindfulness)[![Social](/img/people-carry-solid.svg)](#social)[![Conservation](/img/brain-solid.svg)](#conservation)
+
+<div class="logo-div">
+<i class="fas fa-people-carry-solid"></i>
+<i class="fas fa-leaf-solid"></i>
+<i class="fas fa-brain-solid"></i>
+</div>
 
 # Mindfulness
 - [Headspace](https://www.headspace.com) - Meditation that speaks to you. Or not.
