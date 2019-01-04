@@ -1,3 +1,4 @@
 ---
-title:Civility
+title: Civility
+layout: post
 ---
