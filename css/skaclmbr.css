@@ -3,8 +3,13 @@
   font-size:3rem;
   color:#0B3C5D;
 }
+.404-photo {
+  width:75%;
+  margin-left:auto;
+  margin-right:auto;
+}
 .photo-credit {
   text-align:right;
   font-size:0.75rem;
-  width:100%;
+  width:inherit;
 }
