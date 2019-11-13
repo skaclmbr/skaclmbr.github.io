@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: If you care
+subtitle: 
 ---
-Inelegant thoughts is built by Scott Anderson. It is an expression of good things on the internet and in the world, and my flawed and *hopefully* useful reflections on them.
+Inelegant thoughts is built by Scott Anderson as an expression of good things on the internet and in the world, and my flawed and *hopeful* reflections on them.
 
 I have the following qualities:
 - Fellow human
@@ -12,4 +12,4 @@ I have the following qualities:
 
 ### history
 
-I'm very much a short-attention-span person with bouts of prolonged concentration. Sometimes, it works out great.
+I'm very much a short-attention-span person blessed with occasional bouts of prolonged concentration. Sometimes, it works out great.
