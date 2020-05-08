@@ -1,10 +1,8 @@
 ---
 title: Life Lessons From Buckaroo Banzai
-published: true
 layout: post
 categories: [thoughts]
 tags: [thoughts, buckaroo,chucks]
-comments: true
 ---
 We all have childhood idols. Mine was Buckaroo Banzai - ably portrayed by the actor Peter Weller in a movie version of the comic. He was a neuroscientist, rock star, physicist, and overall cool person. He demonstrated kindness, attentiveness, and support without arrogance. He played guitar, mastered quantum physics, and walked through the world with curiosity, exploration, and a desire to understand. He embodied this purpose with bold action. He also had a loyal following of characters, some more skilled or powerful than others. Above all, he treated them like equals, fellow humans (or beings as the case may be).
 
