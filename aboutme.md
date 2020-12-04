@@ -13,3 +13,7 @@ I have the following qualities:
 ### history
 
 I'm very much a short-attention-span person blessed with occasional bouts of prolonged concentration. Sometimes, it works out great.
+
+### resume
+
+[cv.skaclmbr.com](https://cv.skaclmbr.com)
