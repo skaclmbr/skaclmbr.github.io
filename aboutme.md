@@ -16,4 +16,4 @@ I'm very much a short-attention-span person blessed with occasional bouts of pro
 
 ### resume
 
-[cv.skaclmbr.com](https://cv.skaclmbr.com)
+[cv.skaclmbr.com](http://cv.skaclmbr.com)
