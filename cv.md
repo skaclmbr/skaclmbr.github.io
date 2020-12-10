@@ -3,11 +3,11 @@ layout: page
 title: Curriculum Vitae
 ---
 
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Education](#education)
-- [About](#about)
-- [Skills](#skills)
+[Work Experience](#work-experience){: .btn}
+[Projects](#projects){: .btn}
+[Education](#education){: .btn}
+[About](#about){: .btn}
+[Skills](#skills){: .btn}
 
 # Work Experience
 ## Bird Conservation Biologist ([NC Wildlife Resources Commission](https://ncwildlife.org))
