@@ -12,7 +12,7 @@ title: Curriculum Vitae
 # Work Experience
 ## Bird Conservation Biologist ([NC Wildlife Resources Commission](https://ncwildlife.org))
 *2010-Present*
-
+![Bird surveys from canoe](/img/rbbs_canoe_bins_up_look_right.jpg j "Riparian Breeding Bird Surveys on the Deep River, NC")
 Serve as statewide nongame bird biologist for North Carolina.
 - Provide direction for statewide bird conservation initiatives, participate in regional, national efforts
 - Serve on US North American Bird Conservation Initiative human dimensions subcommittee, HD Coordinator advisory team
@@ -36,15 +36,15 @@ Serve as statewide nongame bird biologist for North Carolina.
  - Initiated and completed effort to standardize databases for collection, storage of biological data
  - Provide agency-wide database, GIS, GPS technical support
 
-## Graduate Research Assistant ([NC Wildlife Resources Commission](https://ncwildlife.org))
+## Graduate Research Assistant ([Oregon State University](https://oregonstate.edu))
 *2000-2003*
 - Studied foraging ecology, chick provisioning of Caspian terns in the Columbia River estuary
 - Led crews of 10-15 to capture terns for radio-tag attachment, morphological measurement, blood collection
 - Supervised field assistant • Mapped, analyzed off-colony distribution of breeding birds
 
-## Research Assistant ([NC Wildlife Resources Commission](https://ncwildlife.org))
+## Research Assistant ([Oregon State University](https://oregonstate.edu))
 *1998*
-Banding, radio-tracking burrowing owls near Taft, CA
+Banding, radio-tracking Burrowing Owls near Taft, CA
 
 ## Computer Software Trainer (Texas A&M University)
 *1998-1999*

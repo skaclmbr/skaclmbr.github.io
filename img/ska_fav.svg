@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 211.66667 211.66667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ska_logo.svg"
+   inkscape:export-filename="D:\skaclmbr.com\img\ska_logo_med.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="319.9615"
+     inkscape:cy="849.75093"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="S"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-85.333349)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="A"
+     style="display:inline">
+    <g
+       id="g831"
+       transform="translate(-5.95243,-6.0494973)">
+      <text
+         transform="matrix(1.0232035,0,0,0.97732268,0,-85.333348)"
+         id="text12"
+         y="259.32654"
+         x="13.882448"
+         style="font-style:normal;font-weight:normal;font-size:101.22232056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d3d5f;fill-opacity:1;stroke:#2d3d5f;stroke-width:4.04889345;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:161.95573425px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#2d3d5f;fill-opacity:1;stroke:#2d3d5f;stroke-width:4.04889345;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="259.32654"
+           x="13.882448"
+           id="tspan10"
+           sodipodi:role="line">S</tspan></text>
+      <text
+         transform="scale(1.0232035,0.97732269)"
+         id="text12-6"
+         y="173.61742"
+         x="77.398903"
+         style="font-style:normal;font-weight:normal;font-size:103.97978973px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#2d3d5f;stroke-width:4.15919209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.36766052px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff;fill-opacity:1;stroke:#2d3d5f;stroke-width:4.15919209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="173.61742"
+           x="77.398903"
+           id="tspan10-2"
+           sodipodi:role="line">A</tspan></text>
+    </g>
+  </g>
+</svg>
