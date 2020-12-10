@@ -13,36 +13,36 @@ title: Curriculum Vitae
 
 
 # Projects
-##[North Carolina Birding Trail](http://ncbirdingtrail.org)
+## [North Carolina Birding Trail](http://ncbirdingtrail.org)
 
-##[North Carolina Partners in Flight](http://ncpif.org)[North Carolina Conservation Connections](http://wiki.ncpif.org)
+## [North Carolina Partners in Flight](http://ncpif.org)
 
-##[US NABCI](https://nabci-us.org)
+## [North Carolina Conservation Connections](http://wiki.ncpif.org)
 
-##[Partners in Flight Eastern Working Group](https://partnersinflight.org/eastern)
+## [US NABCI](https://nabci-us.org)
 
-##[Partners in Flight](https://partnersinflight.org)
+## [Partners in Flight Eastern Working Group](https://partnersinflight.org/eastern)
 
-##Bachman's Sparrow North Carolina Distribution
+## [Partners in Flight](https://partnersinflight.org)
 
-##Riparian Breeding Bird Surveys
+## Bachman's Sparrow North Carolina Distribution
 
-##
+## Riparian Breeding Bird Surveys
 
-##[NC Bird Atlas](https://ncbirdatlas.org) (in progress)
+## [NC Bird Atlas](https://ncbirdatlas.org) (in progress)
 
 # Skills
 - Certified PADI Scuba
-##Web Technologies
+## Web Technologies
 Proficient in a wide variety of web technologies:
 - HTML, CSS, Javascript
 - Wordpress, PHP (content creation and management, [theme and plugin development](#north-carolina-birding-trail))
-##GIS
+## GIS
 - ArcGIS (desktop, server, pro, online)
 
-##Data Analyses
+## Data Analyses
 
 - Software (decreasing recency): R, WinBUGS,
 - Methods: basic (t-test, chi-square, regression), model comparison, hierarchical modeling
 
-#About
+# About
