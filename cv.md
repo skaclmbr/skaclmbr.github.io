@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-
+<button class="btn btn-secondary">Work Experience</button>
 [Work Experience](#work-experience){: .btn}
 [Projects](#projects){: .btn}
 [Education](#education){: .btn}
@@ -11,12 +11,13 @@ title: Curriculum Vitae
 
 # Work Experience
 ## Bird Conservation Biologist ([NC Wildlife Resources Commission](https://ncwildlife.org))
-*2010-Present*
 ![Biologists surveying an island with tern nest in the foreground](/img/ternnest_scott_anderson.jpg "Biologists survey an island for tern nests in North Carolina")
+*2010-Present*
 Serve as statewide nongame bird biologist for North Carolina.
 - Provide direction for statewide bird conservation initiatives, participate in regional, national efforts
 - Serve on US North American Bird Conservation Initiative human dimensions subcommittee, HD Coordinator advisory team
 - Chair six agency NC Birding Trail (NCBT) Steering Committee, supervise social media & outreach, coordinate activities (including Strategic Plan Development)
+![Eastern Bluebird landing on nest box](/img/20140520_eable_box_landing.jpg "Eastern Bluebird lands on suburban nestbox in Raleigh, NC")
 - Organize annual NC Partners in Flight (NCPIF) meetings
 - Develop, maintain NCBT & NCPIF websites
 - Assist with application for, administration of multiple Federal grants annually
@@ -77,8 +78,8 @@ Developed team atmosphere and encouraged problem-solving among novices on rock c
 
 
 # Projects
-![Binoculars, North Carolina Birding Trail Guide and backpack](/img/ncbt_bins_backpack.jpg "North Carolina Birding Trail")
 ## [North Carolina Birding Trail](http://ncbirdingtrail.org)
+![Binoculars, North Carolina Birding Trail Guide and backpack](/img/ncbt_bins_backpack.jpg "North Carolina Birding Trail")
 
 ## [North Carolina Partners in Flight](http://ncpif.org)
 
@@ -92,8 +93,8 @@ Developed team atmosphere and encouraged problem-solving among novices on rock c
 
 ## Bachman's Sparrow North Carolina Distribution
 
-![Bird surveys from canoe](/img/canoe_stern_rapids.jpg "Riparian Breeding Bird Surveys on the Deep River, NC")
 ## Riparian Breeding Bird Surveys
+![Bird surveys from canoe](/img/canoe_stern_rapids.jpg "Riparian Breeding Bird Surveys on the Deep River, NC")
 
 ## [NC Bird Atlas](https://ncbirdatlas.org) (in progress)
 
@@ -120,3 +121,10 @@ Proficient in a wide variety of web technologies:
 - Python, R, Javascript, PHP
 
 # About
+- Guitar
+- Programming
+## Photography
+![Trees in fog](/img/fot_trees2.jpg "Foggy trees near Corvallis, OR")
+![Backpacker passing a trail marker on the Appalachian Trail near Elk Gardens, NC](/img/fot_trees2.jpg "Backpacking the AT at Elk Gardens, NC")
+![Trees in fog](/img/fot_trees2.jpg "Foggy trees near Corvallis, OR")
+![Trees in fog](/img/fot_trees2.jpg "Foggy trees near Corvallis, OR")
