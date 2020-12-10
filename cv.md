@@ -12,7 +12,7 @@ title: Curriculum Vitae
 # Work Experience
 ## Bird Conservation Biologist ([NC Wildlife Resources Commission](https://ncwildlife.org))
 *2010-Present*
-![Bird surveys from canoe](/img/rbbs_canoe_bins_up_look_right.jpg j "Riparian Breeding Bird Surveys on the Deep River, NC")
+![Biologists surveying an island with tern nest in the foreground](/img/ternnest_scott_anderson.jpg "Biologists survey an island for tern nests in North Carolina")
 Serve as statewide nongame bird biologist for North Carolina.
 - Provide direction for statewide bird conservation initiatives, participate in regional, national efforts
 - Serve on US North American Bird Conservation Initiative human dimensions subcommittee, HD Coordinator advisory team
@@ -77,6 +77,7 @@ Developed team atmosphere and encouraged problem-solving among novices on rock c
 
 
 # Projects
+![Binoculars, North Carolina Birding Trail Guide and backpack](/img/ncbt_bins_backpack.jpg "North Carolina Birding Trail")
 ## [North Carolina Birding Trail](http://ncbirdingtrail.org)
 
 ## [North Carolina Partners in Flight](http://ncpif.org)
@@ -91,6 +92,7 @@ Developed team atmosphere and encouraged problem-solving among novices on rock c
 
 ## Bachman's Sparrow North Carolina Distribution
 
+![Bird surveys from canoe](/img/canoe_stern_rapids.jpg "Riparian Breeding Bird Surveys on the Deep River, NC")
 ## Riparian Breeding Bird Surveys
 
 ## [NC Bird Atlas](https://ncbirdatlas.org) (in progress)
