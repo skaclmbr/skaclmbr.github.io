@@ -5,8 +5,9 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://skaclmbr.github.io"
-baseurl: ""
-#baseurl: "https//skaclmbr.github.io"
+baseurl: "/"
+
+# baseurl: "https//skaclmbr.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -19,6 +20,9 @@ title: Scott Anderson
 
 # Short description of your site
 description: Thoughts and Experiments
+
+# paginate: 5
+# paginate_path: "/blog/page:num/"
 
 # --- Navigation bar options --- #
 
@@ -62,7 +66,7 @@ avatar: "/img/skaclmbr_thinkin.PNG"
 navbar-text-col: "#ffdd4a"
 navbar-col: "#2d3d5f"
 navbar-children-col: "#ffdd4a"
-page-col: "5adbff"
+page-col: "#5adbff"
 link-col: "#ffdd4a"
 hover-col: "#D9B310"
 footer-col: "#2d3d5f"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: Curriculum Vitae
 ---
 <button class="btn btn-secondary">Work Experience</button>
@@ -80,10 +80,11 @@ Developed team atmosphere and encouraged problem-solving among novices on rock c
 # Projects
 ## [North Carolina Birding Trail](http://ncbirdingtrail.org)
 ![Binoculars, North Carolina Birding Trail Guide and backpack](/img/ncbt_bins_backpack.jpg "North Carolina Birding Trail")
+Coordinator of this project designed to encourage appreciation of birds and the natural world.
+- provide web resources for sites across the state
 
 ## [North Carolina Partners in Flight](http://ncpif.org)
 
-## [North Carolina Conservation Connections](http://wiki.ncpif.org)
 
 ## [US NABCI](https://nabci-us.org)
 
@@ -97,6 +98,9 @@ Developed team atmosphere and encouraged problem-solving among novices on rock c
 ![Bird surveys from canoe](/img/canoe_stern_rapids.jpg "Riparian Breeding Bird Surveys on the Deep River, NC")
 
 ## [NC Bird Atlas](https://ncbirdatlas.org) (in progress)
+
+## [North Carolina Conservation Connections](http://wiki.ncpif.org) (in development)
+Web resource for connecting bird conservation projects, species, habitats, organizations, and plans.
 
 ## Game Lands Map Book
 
