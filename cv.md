@@ -2,8 +2,7 @@
 layout: cv
 title: Curriculum Vitae
 ---
-<button class="btn btn-secondary">Work Experience</button>
-[Work Experience](#work-experience){: .btn}
+<a href="#work-experience" class="btn btn-outline-secondary>Work Experience</a>
 [Projects](#projects){: .btn}
 [Education](#education){: .btn}
 [About](#about){: .btn}
